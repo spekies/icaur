@@ -92,6 +92,7 @@ void search_package(const char *package_name) {
 
 int main(int argc, char *argv[]) {
     if(argc < 2) {
+        printf("- - ICAUR - -\n");
         fprintf(stderr, "Usage: %s <package_name>\n", argv[0]);
         return 1;
     }
