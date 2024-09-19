@@ -1,6 +1,5 @@
 # ICAUR
 Extremely simple AUR helper written in C.
-Licensed by the GPLv3.
 ## Dependencies
 ```
 curl
