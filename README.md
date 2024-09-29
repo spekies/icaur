@@ -1,5 +1,5 @@
 # ICAUR
-Extremely simple AUR helper written in C.
+Extremely simple AUR helper written in C, that only gets PKGBUILD files for you.
 ## Dependencies
 ```
 curl
